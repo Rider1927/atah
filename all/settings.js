@@ -1,9 +1,9 @@
 require("./module")
 
 //================OWNER+NAMA OWNER+NAMA BOT=============\\
-global.owner = "6289617554095" //nomor owner ganti aja jadi nomor asli lu
+global.owner = "62858593086419" //nomor owner ganti aja jadi nomor asli lu
 global.namabot = "Bot Plery V8" //nama bot ini
-global.namaCreator = "MODS" //nama creator
+global.namaCreator = "JONS MODS" //nama creator
 //================JANGAN DI UBAH NTAR ERROR=============\\
 global.autoJoin = false //NOT CHANGE / JANGAN GANTI
 global.antilink = false //NOT CHANGE / JANGAN GANTI

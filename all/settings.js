@@ -34,8 +34,8 @@ global.tekspushkonv2 = "" //NOT CHANGE / JANGAN GANTI
 global.packname = "� Created By" //GANTI AJ
 global.author = "RezzX" //GANTI SERAH MU
 global.jumlah = "5" ////NOT CHANGE / JANGAN GANTI
-global.dana = "089617554095" //ganti pake no lu jika ga punya kasih kosong aja
-global.gopay = "089510054512" //ganti pake no lu jika ga punya kasih kosong aja
+global.dana = "" //ganti pake no lu jika ga punya kasih kosong aja
+global.gopay = "" //ganti pake no lu jika ga punya kasih kosong aja
 global.ovo = ""//isi pake no lu jika ga punya kasih kosong aja
 
 let file = require.resolve(__filename)
